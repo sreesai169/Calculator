@@ -1,2 +1,2 @@
 # Calculator
-Calculator using recat
+Calculator using react
